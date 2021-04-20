@@ -1,8 +1,10 @@
 .col-12{
     margin-bottom: 3rem;
 }
-.menu{
+.container .menu{
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 5rem;
+    background-color: #233333;
     
 }
